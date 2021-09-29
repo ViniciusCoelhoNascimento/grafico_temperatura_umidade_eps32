@@ -1,0 +1,17 @@
+C:\Users\Legion\source\repos\SimpleTCP\bin\Debug\SimpleTcp.dll
+C:\Users\Legion\source\repos\SimpleTCP\obj\Debug\SimpleTCP.csproj.AssemblyReference.cache
+C:\Users\Legion\source\repos\SimpleTCP\obj\Debug\SimpleTCP.TCPClient.resources
+C:\Users\Legion\source\repos\SimpleTCP\obj\Debug\SimpleTCP.csproj.GenerateResource.cache
+C:\Users\Legion\source\repos\SimpleTCP\obj\Debug\SimpleTCP.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\SimpleTCP\obj\Debug\SimpleTCP.csproj.CopyComplete
+C:\Users\Legion\source\repos\SimpleTCP\bin\Debug\SimpleTCP_teste.exe.config
+C:\Users\Legion\source\repos\SimpleTCP\bin\Debug\SimpleTCP_teste.exe
+C:\Users\Legion\source\repos\SimpleTCP\bin\Debug\SimpleTCP_teste.pdb
+C:\Users\Legion\source\repos\SimpleTCP\obj\Debug\SimpleTCP_teste.exe
+C:\Users\Legion\source\repos\SimpleTCP\obj\Debug\SimpleTCP_teste.pdb
+C:\Users\Legion\source\repos\SimpleTCP\bin\Debug\SimpleTcp.xml
+C:\Users\Legion\source\repos\SimpleTCP\obj\Debug\SimpleTCP.Properties.Resources.resources
+C:\Users\Legion\source\repos\SimpleTCP\bin\Debug\SimpleTCP_teste.exe.manifest
+C:\Users\Legion\source\repos\SimpleTCP\bin\Debug\SimpleTCP_teste.application
+C:\Users\Legion\source\repos\SimpleTCP\obj\Debug\SimpleTCP_teste.exe.manifest
+C:\Users\Legion\source\repos\SimpleTCP\obj\Debug\SimpleTCP_teste.application
